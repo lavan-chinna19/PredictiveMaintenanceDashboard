@@ -1,0 +1,307 @@
+MaintenanceID,DeviceID,Date,Action,Cost,DowntimeDays,RootCause
+1,1,2024-01-01,Replace,1793.78,4,Unknown
+2,1,2024-01-05,Service,434.05,2,Overheating
+3,1,2024-01-17,Repair,1199.84,1,Unknown
+4,1,2024-01-18,Service,1325.7,4,Unknown
+5,1,2024-01-22,Repair,1967.57,5,Wear & Tear
+6,1,2024-01-23,Replace,240.92,5,Overheating
+7,1,2024-01-27,Repair,1946.53,2,Electrical Fault
+8,1,2024-01-29,Replace,617.8,2,Overheating
+9,1,2024-02-03,Replace,1486.85,2,Electrical Fault
+10,1,2024-02-05,Replace,1848.47,4,Wear & Tear
+11,1,2024-02-07,Replace,1180.43,1,Unknown
+12,1,2024-02-10,Repair,568.85,2,Wear & Tear
+13,1,2024-02-11,Repair,1285.27,1,Unknown
+14,1,2024-02-12,Repair,593.97,4,Electrical Fault
+15,1,2024-02-14,Service,1963.18,3,Electrical Fault
+16,1,2024-02-24,Replace,1092.35,5,Overheating
+17,1,2024-02-27,Replace,418.28,2,Unknown
+18,1,2024-02-28,Repair,1804.52,5,Overheating
+19,1,2024-02-29,Replace,676.28,1,Electrical Fault
+20,1,2024-03-02,Service,781.44,2,Unknown
+21,1,2024-03-04,Replace,1118.48,1,Unknown
+22,1,2024-03-06,Replace,712.57,1,Electrical Fault
+23,1,2024-03-30,Replace,568.8,3,Wear & Tear
+24,2,2024-01-01,Replace,1046.72,1,Electrical Fault
+25,2,2024-01-03,Replace,1533.65,4,Electrical Fault
+26,2,2024-01-04,Repair,335.32,2,Wear & Tear
+27,2,2024-01-05,Replace,1809.68,5,Electrical Fault
+28,2,2024-01-07,Repair,1330.88,3,Unknown
+29,2,2024-01-08,Repair,1230.54,3,Unknown
+30,2,2024-01-09,Service,1436.2,4,Electrical Fault
+31,2,2024-01-15,Replace,1759.85,2,Electrical Fault
+32,2,2024-01-21,Repair,1726.54,2,Overheating
+33,2,2024-02-02,Replace,252.48,2,Unknown
+34,2,2024-02-03,Service,241.25,5,Unknown
+35,2,2024-02-07,Replace,1425.34,1,Unknown
+36,2,2024-02-08,Replace,1460.2,4,Unknown
+37,2,2024-02-25,Repair,1820.56,5,Electrical Fault
+38,2,2024-02-27,Repair,857.16,1,Unknown
+39,2,2024-03-02,Service,458.53,2,Electrical Fault
+40,2,2024-03-11,Repair,1332.51,3,Electrical Fault
+41,2,2024-03-22,Repair,1985.87,3,Wear & Tear
+42,2,2024-03-30,Replace,1170.33,4,Wear & Tear
+43,3,2024-01-01,Service,676.84,5,Electrical Fault
+44,3,2024-01-02,Service,331.15,2,Wear & Tear
+45,3,2024-01-03,Service,449.74,5,Unknown
+46,3,2024-01-05,Replace,1558.93,1,Overheating
+47,3,2024-01-13,Repair,973.93,5,Overheating
+48,3,2024-01-16,Service,1762.54,2,Electrical Fault
+49,3,2024-01-19,Repair,1731.57,1,Electrical Fault
+50,3,2024-01-20,Service,1715.17,4,Overheating
+51,3,2024-01-22,Service,1944.32,2,Overheating
+52,3,2024-01-26,Service,807.9,5,Wear & Tear
+53,3,2024-01-28,Service,351.23,3,Unknown
+54,3,2024-01-29,Service,1182.25,4,Wear & Tear
+55,3,2024-02-04,Service,1378.7,1,Overheating
+56,3,2024-02-08,Repair,623.51,5,Unknown
+57,3,2024-02-15,Replace,902.89,2,Electrical Fault
+58,3,2024-02-16,Repair,1881.03,4,Overheating
+59,3,2024-02-19,Replace,1604.45,5,Wear & Tear
+60,3,2024-02-24,Service,1330.07,4,Unknown
+61,3,2024-02-27,Service,1157.96,4,Electrical Fault
+62,3,2024-03-01,Service,1234.27,4,Unknown
+63,3,2024-03-03,Service,1721.92,2,Overheating
+64,3,2024-03-05,Service,1238.25,4,Wear & Tear
+65,3,2024-03-10,Service,1157.85,5,Wear & Tear
+66,3,2024-03-13,Replace,1358.39,2,Overheating
+67,3,2024-03-17,Repair,1451.9,1,Overheating
+68,3,2024-03-18,Replace,885.69,5,Overheating
+69,3,2024-03-22,Service,1021.94,1,Wear & Tear
+70,3,2024-03-31,Service,424.69,3,Electrical Fault
+71,4,2024-01-06,Service,816.74,3,Overheating
+72,4,2024-01-17,Replace,528.6,5,Unknown
+73,4,2024-01-21,Replace,1268.47,2,Electrical Fault
+74,4,2024-01-31,Replace,1687.64,5,Overheating
+75,4,2024-02-06,Repair,1348.94,2,Overheating
+76,4,2024-02-08,Replace,1694.56,2,Electrical Fault
+77,4,2024-02-10,Service,1928.85,5,Wear & Tear
+78,4,2024-02-25,Replace,928.82,3,Wear & Tear
+79,4,2024-03-09,Service,1424.95,3,Electrical Fault
+80,4,2024-03-14,Service,1570.7,4,Electrical Fault
+81,4,2024-03-19,Replace,900.34,5,Electrical Fault
+82,4,2024-03-25,Replace,1902.92,2,Electrical Fault
+83,5,2024-01-02,Replace,1153.53,3,Wear & Tear
+84,5,2024-01-04,Repair,1748.81,5,Wear & Tear
+85,5,2024-01-15,Service,1479.11,3,Overheating
+86,5,2024-01-25,Repair,1912.93,4,Overheating
+87,5,2024-01-26,Replace,1909.24,5,Overheating
+88,5,2024-01-30,Repair,1297.79,4,Overheating
+89,5,2024-01-31,Replace,603.57,2,Overheating
+90,5,2024-02-02,Service,1321.72,5,Wear & Tear
+91,5,2024-02-04,Repair,1844.98,5,Unknown
+92,5,2024-02-06,Repair,284.4,5,Overheating
+93,5,2024-02-08,Service,624.83,1,Wear & Tear
+94,5,2024-02-10,Replace,578.33,3,Wear & Tear
+95,5,2024-02-11,Replace,728.57,1,Overheating
+96,5,2024-02-12,Replace,564.13,2,Electrical Fault
+97,5,2024-02-15,Replace,1314.88,2,Unknown
+98,5,2024-02-22,Replace,1510.12,5,Wear & Tear
+99,5,2024-02-25,Repair,1637.85,4,Overheating
+100,5,2024-03-05,Repair,228.9,5,Overheating
+101,5,2024-03-07,Repair,1454.83,1,Overheating
+102,5,2024-03-15,Repair,263.35,3,Electrical Fault
+103,5,2024-03-18,Replace,889.28,5,Wear & Tear
+104,5,2024-03-21,Service,1265.12,4,Wear & Tear
+105,5,2024-03-22,Service,1518.5,2,Unknown
+106,5,2024-03-25,Repair,689.03,2,Electrical Fault
+107,6,2024-01-06,Service,1148.21,3,Unknown
+108,6,2024-01-11,Repair,1802.33,3,Unknown
+109,6,2024-01-12,Replace,305.06,3,Unknown
+110,6,2024-01-14,Replace,1170.05,3,Overheating
+111,6,2024-01-26,Repair,448.79,3,Overheating
+112,6,2024-02-04,Service,1807.71,3,Overheating
+113,6,2024-02-05,Service,1258.98,3,Overheating
+114,6,2024-02-06,Service,1714.84,3,Electrical Fault
+115,6,2024-02-11,Service,432.01,5,Wear & Tear
+116,6,2024-02-17,Repair,1662.35,4,Overheating
+117,6,2024-02-19,Repair,445.03,1,Wear & Tear
+118,6,2024-03-03,Repair,480.7,3,Overheating
+119,6,2024-03-07,Service,613.23,2,Wear & Tear
+120,6,2024-03-08,Repair,436.03,1,Overheating
+121,6,2024-03-12,Replace,324.64,1,Overheating
+122,6,2024-03-18,Replace,1064.95,5,Electrical Fault
+123,6,2024-03-23,Service,1339.41,5,Electrical Fault
+124,6,2024-03-26,Service,380.66,3,Overheating
+125,6,2024-03-31,Service,1144.63,4,Unknown
+126,7,2024-01-11,Service,1315.93,4,Electrical Fault
+127,7,2024-01-13,Replace,1933.57,2,Unknown
+128,7,2024-01-15,Replace,1817.96,4,Overheating
+129,7,2024-01-26,Service,943.9,1,Electrical Fault
+130,7,2024-02-01,Replace,1722.73,2,Overheating
+131,7,2024-03-25,Replace,576.47,1,Electrical Fault
+132,8,2024-02-07,Repair,1473.62,1,Electrical Fault
+133,8,2024-02-08,Repair,1705.41,2,Electrical Fault
+134,8,2024-02-20,Service,457.78,1,Overheating
+135,8,2024-02-21,Service,366.69,4,Wear & Tear
+136,8,2024-02-26,Repair,1135.26,4,Overheating
+137,8,2024-03-05,Replace,488.27,5,Unknown
+138,8,2024-03-19,Replace,243.61,2,Unknown
+139,8,2024-03-26,Replace,1133.63,1,Unknown
+140,9,2024-01-01,Repair,1616.46,3,Unknown
+141,9,2024-01-02,Replace,777.53,3,Overheating
+142,9,2024-01-04,Replace,444.2,2,Wear & Tear
+143,9,2024-01-07,Replace,456.4,1,Unknown
+144,9,2024-01-13,Replace,1819.37,5,Electrical Fault
+145,9,2024-01-16,Service,384.05,1,Electrical Fault
+146,9,2024-01-18,Service,991.17,1,Unknown
+147,9,2024-01-22,Repair,313.98,2,Electrical Fault
+148,9,2024-01-23,Replace,1616.98,2,Electrical Fault
+149,9,2024-01-29,Repair,786.48,2,Electrical Fault
+150,9,2024-01-31,Service,1919.35,5,Electrical Fault
+151,9,2024-02-02,Service,941.49,2,Wear & Tear
+152,9,2024-02-05,Service,968.78,3,Wear & Tear
+153,9,2024-02-08,Service,745.76,5,Electrical Fault
+154,9,2024-02-11,Repair,1814.07,3,Overheating
+155,9,2024-02-14,Service,1935.47,5,Electrical Fault
+156,9,2024-02-20,Replace,1200.7,3,Overheating
+157,9,2024-02-29,Replace,419.88,4,Unknown
+158,9,2024-03-02,Repair,490.81,4,Overheating
+159,9,2024-03-05,Repair,1895.42,5,Overheating
+160,9,2024-03-14,Replace,1757.78,5,Unknown
+161,9,2024-03-19,Service,1487.88,1,Electrical Fault
+162,9,2024-03-21,Replace,1286.49,5,Unknown
+163,9,2024-03-23,Repair,536.23,2,Unknown
+164,9,2024-03-24,Repair,491.76,3,Electrical Fault
+165,9,2024-03-28,Service,1821.93,4,Unknown
+166,9,2024-03-30,Service,402.52,4,Overheating
+167,10,2024-01-27,Repair,1243.24,5,Electrical Fault
+168,10,2024-01-29,Repair,468.63,1,Electrical Fault
+169,10,2024-01-30,Replace,914.84,1,Electrical Fault
+170,10,2024-02-09,Repair,267.78,1,Overheating
+171,10,2024-02-29,Service,1080.1,4,Unknown
+172,10,2024-03-21,Replace,1430.48,3,Overheating
+173,10,2024-03-22,Repair,626.23,5,Unknown
+174,11,2024-01-06,Repair,1637.65,1,Electrical Fault
+175,11,2024-02-10,Repair,700.63,3,Electrical Fault
+176,11,2024-02-28,Replace,1361.73,5,Overheating
+177,11,2024-02-29,Repair,1028.39,3,Electrical Fault
+178,11,2024-03-01,Repair,1769.61,5,Wear & Tear
+179,11,2024-03-02,Repair,1602.1,5,Electrical Fault
+180,11,2024-03-05,Service,1895.29,3,Wear & Tear
+181,11,2024-03-13,Repair,745.02,4,Overheating
+182,11,2024-03-19,Service,1762.14,5,Electrical Fault
+183,11,2024-03-21,Repair,1301.74,2,Wear & Tear
+184,12,2024-01-10,Service,948.05,4,Wear & Tear
+185,12,2024-01-19,Repair,1436.19,4,Wear & Tear
+186,12,2024-01-20,Service,1941.35,2,Unknown
+187,12,2024-02-21,Repair,1339.92,2,Wear & Tear
+188,12,2024-02-29,Repair,483.33,4,Unknown
+189,12,2024-03-14,Replace,1554.79,2,Wear & Tear
+190,12,2024-03-26,Repair,1290.51,1,Wear & Tear
+191,13,2024-01-31,Repair,888.65,1,Electrical Fault
+192,13,2024-02-05,Repair,275.33,5,Wear & Tear
+193,13,2024-02-20,Replace,444.78,3,Unknown
+194,13,2024-02-28,Repair,556.31,5,Electrical Fault
+195,13,2024-03-05,Repair,728.5,2,Unknown
+196,13,2024-03-06,Replace,807.16,5,Wear & Tear
+197,13,2024-03-22,Service,521.91,3,Wear & Tear
+198,13,2024-03-26,Repair,1575.85,3,Electrical Fault
+199,14,2024-01-13,Repair,362.18,1,Unknown
+200,14,2024-01-16,Service,1144.67,3,Wear & Tear
+201,14,2024-01-17,Service,1396.86,2,Electrical Fault
+202,14,2024-01-21,Service,716.08,2,Wear & Tear
+203,14,2024-01-31,Service,548.58,3,Overheating
+204,14,2024-02-08,Service,884.89,1,Wear & Tear
+205,14,2024-02-14,Repair,1488.21,5,Overheating
+206,14,2024-02-25,Repair,1602.59,5,Unknown
+207,14,2024-03-09,Repair,1597.45,2,Unknown
+208,14,2024-03-10,Repair,455.38,2,Unknown
+209,14,2024-03-14,Replace,1189.45,5,Overheating
+210,14,2024-03-16,Replace,752.5,2,Electrical Fault
+211,14,2024-03-21,Repair,666.84,1,Electrical Fault
+212,14,2024-03-22,Repair,453.52,4,Wear & Tear
+213,15,2024-01-01,Replace,421.6,5,Electrical Fault
+214,15,2024-01-08,Replace,615.45,4,Overheating
+215,15,2024-01-16,Repair,499.43,5,Wear & Tear
+216,15,2024-01-22,Replace,1493.91,1,Unknown
+217,15,2024-01-28,Replace,1751.54,1,Unknown
+218,15,2024-02-05,Repair,433.98,3,Wear & Tear
+219,15,2024-02-15,Replace,774.98,2,Wear & Tear
+220,15,2024-02-27,Repair,1462.16,3,Wear & Tear
+221,15,2024-03-02,Repair,305.57,1,Overheating
+222,15,2024-03-14,Replace,1921.86,5,Unknown
+223,15,2024-03-20,Replace,961.74,3,Wear & Tear
+224,15,2024-03-25,Replace,997.06,3,Overheating
+225,15,2024-03-29,Replace,965.31,2,Electrical Fault
+226,16,2024-01-04,Replace,1063.23,1,Electrical Fault
+227,16,2024-01-08,Replace,1031.14,1,Wear & Tear
+228,16,2024-01-12,Repair,1198.89,1,Wear & Tear
+229,16,2024-01-17,Repair,573.0,4,Electrical Fault
+230,16,2024-01-22,Repair,1008.79,3,Wear & Tear
+231,16,2024-01-23,Replace,491.37,5,Wear & Tear
+232,16,2024-01-25,Service,223.63,1,Overheating
+233,16,2024-01-26,Replace,393.32,5,Wear & Tear
+234,16,2024-02-01,Service,394.73,3,Wear & Tear
+235,16,2024-02-03,Replace,351.98,5,Wear & Tear
+236,16,2024-02-06,Replace,1015.33,2,Wear & Tear
+237,16,2024-02-07,Replace,1482.72,3,Wear & Tear
+238,16,2024-02-08,Repair,1663.39,3,Overheating
+239,16,2024-02-12,Service,1917.0,4,Overheating
+240,16,2024-02-15,Repair,1641.85,2,Wear & Tear
+241,16,2024-02-18,Service,553.8,1,Unknown
+242,16,2024-02-24,Repair,828.08,5,Overheating
+243,16,2024-03-07,Replace,966.64,4,Overheating
+244,16,2024-03-09,Replace,253.43,1,Wear & Tear
+245,16,2024-03-14,Replace,558.14,2,Unknown
+246,16,2024-03-17,Repair,1680.65,4,Overheating
+247,16,2024-03-18,Replace,1801.35,4,Electrical Fault
+248,16,2024-03-24,Repair,835.82,1,Electrical Fault
+249,17,2024-01-15,Repair,1459.06,4,Wear & Tear
+250,17,2024-01-19,Repair,303.65,3,Unknown
+251,17,2024-01-24,Replace,966.01,3,Overheating
+252,17,2024-02-04,Service,1260.77,1,Wear & Tear
+253,17,2024-02-05,Repair,1004.48,4,Unknown
+254,17,2024-02-15,Repair,1845.07,1,Wear & Tear
+255,17,2024-02-19,Service,1379.19,5,Electrical Fault
+256,17,2024-02-20,Service,1582.89,5,Wear & Tear
+257,17,2024-03-08,Service,1213.26,3,Wear & Tear
+258,17,2024-03-11,Replace,648.72,1,Overheating
+259,17,2024-03-12,Repair,276.13,5,Wear & Tear
+260,17,2024-03-22,Service,735.73,5,Unknown
+261,17,2024-03-30,Replace,1609.99,5,Unknown
+262,18,2024-01-01,Service,602.63,1,Electrical Fault
+263,18,2024-01-03,Replace,1262.57,1,Unknown
+264,18,2024-01-13,Replace,1285.38,3,Wear & Tear
+265,18,2024-01-19,Replace,1834.54,1,Electrical Fault
+266,18,2024-01-22,Repair,1072.92,1,Unknown
+267,18,2024-01-25,Replace,1227.83,2,Electrical Fault
+268,18,2024-01-26,Repair,1571.95,4,Electrical Fault
+269,18,2024-02-13,Repair,1526.54,5,Overheating
+270,18,2024-02-17,Service,1223.23,1,Unknown
+271,18,2024-02-27,Repair,320.59,3,Electrical Fault
+272,18,2024-03-04,Replace,1726.62,2,Wear & Tear
+273,18,2024-03-06,Repair,1041.08,5,Unknown
+274,18,2024-03-15,Service,1719.65,1,Wear & Tear
+275,18,2024-03-19,Replace,298.86,2,Wear & Tear
+276,18,2024-03-22,Service,1645.85,3,Wear & Tear
+277,18,2024-03-29,Service,1898.69,1,Electrical Fault
+278,18,2024-03-30,Replace,1431.82,5,Unknown
+279,19,2024-01-14,Repair,1815.4,1,Unknown
+280,19,2024-01-15,Repair,1515.72,5,Overheating
+281,19,2024-01-31,Service,1114.79,1,Unknown
+282,19,2024-02-02,Replace,747.41,2,Electrical Fault
+283,19,2024-02-21,Repair,1012.32,3,Electrical Fault
+284,19,2024-03-06,Service,1969.14,5,Overheating
+285,19,2024-03-14,Replace,1878.51,5,Electrical Fault
+286,19,2024-03-21,Repair,1661.37,3,Wear & Tear
+287,19,2024-03-31,Replace,1053.75,4,Wear & Tear
+288,20,2024-01-02,Repair,1715.81,4,Wear & Tear
+289,20,2024-01-09,Replace,1272.22,1,Wear & Tear
+290,20,2024-01-14,Repair,1119.62,4,Overheating
+291,20,2024-01-17,Repair,1279.82,4,Electrical Fault
+292,20,2024-01-19,Replace,1507.17,4,Unknown
+293,20,2024-01-31,Service,1343.7,3,Wear & Tear
+294,20,2024-02-01,Service,838.35,1,Overheating
+295,20,2024-02-11,Repair,1622.21,4,Wear & Tear
+296,20,2024-02-13,Replace,968.87,4,Electrical Fault
+297,20,2024-02-24,Repair,1077.51,5,Electrical Fault
+298,20,2024-03-01,Replace,1501.16,3,Wear & Tear
+299,20,2024-03-04,Replace,1245.86,4,Electrical Fault
+300,20,2024-03-06,Replace,1352.0,5,Unknown
+301,20,2024-03-15,Service,1351.38,5,Unknown
+302,20,2024-03-16,Replace,1184.24,3,Unknown
+303,20,2024-03-19,Repair,678.16,5,Overheating
+304,20,2024-03-22,Repair,316.57,1,Electrical Fault
+305,20,2024-03-27,Service,808.43,4,Electrical Fault
+306,20,2024-03-31,Repair,1966.21,3,Electrical Fault

@@ -1,0 +1,21 @@
+DeviceID,DeviceType,Location,RoomNo
+1,Geyser,Block A,Room 5
+2,Light,Block A,Room 4
+3,Geyser,Block C,Room 5
+4,Fan,Block A,Room 3
+5,Water Purifier,Block A,Room 1
+6,Light,Block B,Room 10
+7,Pump,Block A,Room 1
+8,Pump,Block C,Room 4
+9,Fan,Block C,Room 4
+10,Light,Block B,Room 1
+11,Fan,Block B,Room 9
+12,Light,Block C,Room 5
+13,Geyser,Block C,Room 10
+14,Geyser,Block A,Room 8
+15,Water Purifier,Block C,Room 9
+16,Light,Block B,Room 7
+17,Water Purifier,Block A,Room 6
+18,Geyser,Block B,Room 1
+19,Pump,Block B,Room 10
+20,Pump,Block A,Room 1

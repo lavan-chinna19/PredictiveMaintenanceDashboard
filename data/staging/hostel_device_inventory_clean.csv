@@ -1,0 +1,21 @@
+DeviceID,DeviceType,Location,RoomNo,InstallDate
+1,Geyser,Block A,Room 5,2022-08-11
+2,Light,Block A,Room 4,2022-01-30
+3,Geyser,Block C,Room 5,2021-12-21
+4,Fan,Block A,Room 3,2022-05-22
+5,Water Purifier,Block A,Room 1,2021-11-09
+6,Light,Block B,Room 10,2022-08-19
+7,Pump,Block A,Room 1,2023-05-27
+8,Pump,Block C,Room 4,2023-07-09
+9,Fan,Block C,Room 4,2021-06-12
+10,Light,Block B,Room 1,2023-08-05
+11,Fan,Block B,Room 9,2023-07-28
+12,Light,Block C,Room 5,2023-07-03
+13,Geyser,Block C,Room 10,2023-07-11
+14,Geyser,Block A,Room 8,2022-08-02
+15,Water Purifier,Block C,Room 9,2023-03-07
+16,Light,Block B,Room 7,2021-12-20
+17,Water Purifier,Block A,Room 6,2023-02-10
+18,Geyser,Block B,Room 1,2022-05-04
+19,Pump,Block B,Room 10,2022-12-09
+20,Pump,Block A,Room 1,2021-09-22

@@ -1,0 +1,9 @@
+# Ignore Python cache 
+__pycache__/ 
+*.pyc 
+# Ignore Jupyter checkpoints 
+.ipynb_checkpoints/ 
+# Ignore raw and complaints data 
+data/raw/ 
+data/complaints.csv 
+data/staging/.ipynb_checkpoints/ 
